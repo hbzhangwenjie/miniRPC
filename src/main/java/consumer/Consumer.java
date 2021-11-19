@@ -8,7 +8,7 @@ import consumer.proxy.Invoker;
  * @author jiimmy
  * @version 1.0
  * @date 2021/5/4 5:08 下午
- *
+ *对 dubbo 源码的 解析：https://blog.csdn.net/z530065424/article/details/121399576?spm=1001.2014.3001.5501
  */
 
 public class Consumer {
